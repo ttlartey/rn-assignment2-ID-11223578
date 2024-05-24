@@ -10,7 +10,7 @@ export default function App() {
         backgroundColor:"grey"
       }}
     >
-      <Text>My name is Thomas</Text>
+      <Text style={{fontSize:24}}>My name is Thomas</Text>
     </View>
   );
 }
